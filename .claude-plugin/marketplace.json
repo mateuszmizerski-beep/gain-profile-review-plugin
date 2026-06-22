@@ -1,0 +1,22 @@
+{
+  "name": "gain-review",
+  "owner": {
+    "name": "Gain Review Team"
+  },
+  "description": "Internal Gain company-profile review tools",
+  "plugins": [
+    {
+      "name": "gain-profile-review",
+      "displayName": "Gain Profile Review",
+      "source": "./plugins/gain-profile-review",
+      "description": "Reviews analyst-drafted Gain profiles using house standards, expert calibration, and empirical benchmarks",
+      "category": "productivity",
+      "tags": [
+        "gain",
+        "company-profiles",
+        "quality-review",
+        "private-equity"
+      ]
+    }
+  ]
+}
