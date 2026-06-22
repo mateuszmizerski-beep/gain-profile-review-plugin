@@ -1,0 +1,13 @@
+{
+  "name": "gain-profile-review",
+  "description": "Reviews analyst-drafted Gain profiles using house standards, expert calibration, and empirical benchmarks",
+  "author": {
+    "name": "Gain Review Team"
+  },
+  "keywords": [
+    "gain",
+    "company-profiles",
+    "quality-review",
+    "private-equity"
+  ]
+}
